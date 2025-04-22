@@ -1,4 +1,4 @@
-![GUI for project showing three idling workers.](/screenshot.png)
+![GUI for project showing three idling workers.](/Screenshot.png)
 
 driver for https://github.com/easydiffusion/easydiffusion which is a UI and
 installer for stable diffusion. This project runs multiple instances, one
