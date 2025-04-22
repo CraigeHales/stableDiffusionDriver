@@ -2,7 +2,7 @@ from connector import ConnectionThread
 from controller import SDControl
 import queue
 
-machines = ["thinkb.local","thinkd.local", "thinkc.local",] #
+machines = ["192.168.1.195","thinkd.local", "thinkc.local",] #
 
 # the queues are shared between connector and controller
 workQueue = queue.Queue()
