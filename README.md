@@ -49,5 +49,8 @@ web based interface that supports dragging existing files into the
 html/js to populate parameters...seems quite nice. This might be my
 one and only tk project.
 
-see the dragon video project too...
-[<img src="https://img.youtube.com/vi/3DK0RUCdaFU/maxresdefault.jpg" width="50%">](https://youtu.be/3DK0RUCdaFU)
+click for youtube video...
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=3DK0RUCdaFU"><img src="https://img.youtube.com/vi/3DK0RUCdaFU/0.jpg" alt="IMAGE ALT TEXT"></a>
+</div>
